@@ -1,4 +1,5 @@
 Hello, I’m 623! 👋
+
 🚀 About Me
 I’m a developer who is passionate about writing code, solving problems, automating stuff.
 
@@ -11,4 +12,4 @@ I’m a developer who is passionate about writing code, solving problems, automa
 😄 Pronouns: he.
 ⚡ Fun fact: I like nailoon.
 🛠 Skills
-c
+luguan
