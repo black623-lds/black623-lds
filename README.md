@@ -2,7 +2,7 @@
 
 I'm a student from China, passionate about:
 
-- 💻 Computer Science
+- 💻 GitHub
 - 🔌 Electronics
 - 📐 Mathematics
 
