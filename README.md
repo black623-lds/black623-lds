@@ -11,7 +11,7 @@ I'm a student from China, passionate about:
 
 ### 📊 Top Languages by Repo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balck-623lds&layout=donut&langs_count=8&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black623-lds)
 
 ---
 
