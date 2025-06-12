@@ -1,10 +1,9 @@
-# Hi there 👋 I'm balck_623
+# Hi there 👋 I'm wofwof
 
 I'm a student from China, passionate about:
 
 - 💻 Computer Science
 - 🔌 Electronics
-- 🧲 Physics
 - 📐 Mathematics
 
 ---
@@ -18,7 +17,7 @@ I'm a student from China, passionate about:
 ### 🧠 OS Preference
 
 - 🌀 luguan
-- 🟦 Ubuntu
+- 🟦 nailong
 
 ---
 
