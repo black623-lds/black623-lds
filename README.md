@@ -17,7 +17,7 @@ I'm a student from China, passionate about:
 
 ### 🧠 OS Preference
 
-- 🌀 Debian
+- 🌀 luguan
 - 🟦 Ubuntu
 
 ---
@@ -25,7 +25,3 @@ I'm a student from China, passionate about:
 ### 📫 Contact Me
 
 📧 [a15924880159@163.com](mailto:balck_623lds@outlook.com)
-😄 Pronouns: he.
-⚡ Fun fact: I like nailoon.
-🛠 Skills
-luguan
