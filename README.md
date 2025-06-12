@@ -1,16 +1,30 @@
-Hello, I’m 623! 👋
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black_623lds&layout=compact&langs_count=10)
+# Hi there 👋 I'm balck_623
 
-🚀 About Me
-I’m a developer who is passionate about writing code, solving problems, automating stuff.
+I'm a student from China, passionate about:
 
-🔭 I’m a student of HDU.
-🌱 I’m currently learning linux.
-👯 I’m looking to collaborate on solve problems.
-🤔 I’m looking for help with write code.
-💬 Ask me about anything  that you want to know.
-📫 How to reach me: a15924880159@126.com.
+- 💻 Computer Science
+- 🔌 Electronics
+- 🧲 Physics
+- 📐 Mathematics
+
+---
+
+### 📊 Top Languages by Repo
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balck_623lds&layout=donut&langs_count=8&hide_progress=false)
+
+---
+
+### 🧠 OS Preference
+
+- 🌀 Debian
+- 🟦 Ubuntu
+
+---
+
+### 📫 Contact Me
+
+📧 [a15924880159@163.com](mailto:balck_623lds@outlook.com)
 😄 Pronouns: he.
 ⚡ Fun fact: I like nailoon.
 🛠 Skills
