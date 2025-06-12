@@ -1,4 +1,6 @@
 Hello, I’m 623! 👋
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black_wof&layout=compact&langs_count=10)
 
 🚀 About Me
 I’m a developer who is passionate about writing code, solving problems, automating stuff.
