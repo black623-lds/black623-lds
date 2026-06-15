@@ -13,8 +13,8 @@
 
 ### 🧠 OS Preference
 
-- 🌀 luguan
-- 🟦 nailong
+- 🌀 life
+- 🟦 become
 
 ---
 
